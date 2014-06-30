@@ -9,8 +9,7 @@ setup(
     description='Wait for something to happen',
     classifiers=[
         "Programming Language :: Python :: 2.7",
-        "License :: OSI Approved :: GNU Affero General Public License \
-            v3 or later (AGPLv3+)",
+        "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
     ],
     keywords='wait sleep time zzz trigger',
     author='David Gay',
