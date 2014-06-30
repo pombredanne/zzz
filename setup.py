@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
     name='zzz',
-    version='0.0.1',
+    version='0.0.2',
     description='Wait for something to happen',
     classifiers=[
         "Programming Language :: Python :: 2.7",
