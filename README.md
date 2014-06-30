@@ -4,7 +4,7 @@ Python library that waits until something happens.
 
 ## Author
 
-`zzz` was writen by David Gay.
+`zzz` was written by David Gay.
 
 ## License
 
