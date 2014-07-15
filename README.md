@@ -5,7 +5,7 @@ Python library that waits until something happens.
 ## Benefit
 
 You will no longer have to write annoying `while`/`time.sleep()` checks
-to wait until a variable is euqal to a certain value.
+to wait until a variable is equal to a certain value.
 
 ## Usage
 
